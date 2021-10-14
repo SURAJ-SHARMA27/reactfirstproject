@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/confusion-React/static/css/main.05a94665.chunk.css",
-    "main.js": "/confusion-React/static/js/main.01995826.chunk.js",
-    "main.js.map": "/confusion-React/static/js/main.01995826.chunk.js.map",
-    "runtime-main.js": "/confusion-React/static/js/runtime-main.01c80d04.js",
-    "runtime-main.js.map": "/confusion-React/static/js/runtime-main.01c80d04.js.map",
-    "static/js/2.2ff49efc.chunk.js": "/confusion-React/static/js/2.2ff49efc.chunk.js",
-    "static/js/2.2ff49efc.chunk.js.map": "/confusion-React/static/js/2.2ff49efc.chunk.js.map",
-    "static/js/3.cfda0bc3.chunk.js": "/confusion-React/static/js/3.cfda0bc3.chunk.js",
-    "static/js/3.cfda0bc3.chunk.js.map": "/confusion-React/static/js/3.cfda0bc3.chunk.js.map",
-    "index.html": "/confusion-React/index.html",
-    "static/css/main.05a94665.chunk.css.map": "/confusion-React/static/css/main.05a94665.chunk.css.map",
-    "static/js/2.2ff49efc.chunk.js.LICENSE.txt": "/confusion-React/static/js/2.2ff49efc.chunk.js.LICENSE.txt"
+    "main.css": "/reactfirstproject/static/css/main.05a94665.chunk.css",
+    "main.js": "/reactfirstproject/static/js/main.01995826.chunk.js",
+    "main.js.map": "/reactfirstproject/static/js/main.01995826.chunk.js.map",
+    "runtime-main.js": "/reactfirstproject/static/js/runtime-main.9667ff6d.js",
+    "runtime-main.js.map": "/reactfirstproject/static/js/runtime-main.9667ff6d.js.map",
+    "static/js/2.2ff49efc.chunk.js": "/reactfirstproject/static/js/2.2ff49efc.chunk.js",
+    "static/js/2.2ff49efc.chunk.js.map": "/reactfirstproject/static/js/2.2ff49efc.chunk.js.map",
+    "static/js/3.cfda0bc3.chunk.js": "/reactfirstproject/static/js/3.cfda0bc3.chunk.js",
+    "static/js/3.cfda0bc3.chunk.js.map": "/reactfirstproject/static/js/3.cfda0bc3.chunk.js.map",
+    "index.html": "/reactfirstproject/index.html",
+    "static/css/main.05a94665.chunk.css.map": "/reactfirstproject/static/css/main.05a94665.chunk.css.map",
+    "static/js/2.2ff49efc.chunk.js.LICENSE.txt": "/reactfirstproject/static/js/2.2ff49efc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.01c80d04.js",
+    "static/js/runtime-main.9667ff6d.js",
     "static/js/2.2ff49efc.chunk.js",
     "static/css/main.05a94665.chunk.css",
     "static/js/main.01995826.chunk.js"
